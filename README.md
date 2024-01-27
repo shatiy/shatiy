@@ -92,7 +92,7 @@ I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilla1&layout=compact)](https://github.com/shakilla1)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=shakilla1.shakilla1)]
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=shatiy.shatiy)]
 view rawREADME.txt hosted with ❤ by GitHub
 
 
